@@ -1,0 +1,3 @@
+我现在切换到了topic分支，然后我开始工作，
+然后我准备提交我的代码，因为初步写完了，要从topic分支本地先推上去 之后再从topic分支切换到master分支。
+然后再是release分支测试测试好了之后production分支产品 master分支回家。
